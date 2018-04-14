@@ -1,0 +1,4 @@
+node_modules/
+.vs/
+server.log
+package-lock.json
